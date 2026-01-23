@@ -1,11 +1,12 @@
-🛡️ Portable Log Analysis System (Offline SOC Project)
-📌 Description
+# Portable Log Analysis System (Offline SOC Project)
+
+## Description
 
 The Portable Log Analysis System is an offline SOC (Security Operations Center) project designed for isolated environments where internet access is not available.
 
 It helps users upload system log files, parse unstructured logs, analyze security events, detect anomalies using Isolation Forest, and visualize results through interactive charts.
 
-🎯 Features
+## 🎯 Features
 
 Works completely offline
 
@@ -25,7 +26,7 @@ Log filtering and search
 
 Report generation and export
 
-🏗️ System Architecture
+## 🏗️ System Architecture
 
 User → Web Dashboard → Log Upload → Log Parser → Analysis Engine → Isolation Forest → Charts & Reports
 
@@ -33,7 +34,7 @@ Standalone application
 
 No internet dependency
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 Frontend: HTML, CSS, JavaScript
 
@@ -47,7 +48,7 @@ Data Storage: Local files / SQLite
 
 Visualization: JavaScript charts (offline supported)
 
-📊 Anomaly Detection
+## Anomaly Detection
 
 The system uses the Isolation Forest algorithm to detect abnormal patterns such as:
 
@@ -57,7 +58,7 @@ Repeated access from the same IP
 
 Sudden spikes in error or critical logs
 
-✅ Use Cases
+## Use Cases
 
 SOC monitoring in isolated networks
 
@@ -67,6 +68,6 @@ Security incident detection
 
 Educational SOC and cybersecurity projects
 
-📌 Conclusion
+## Conclusion
 
 The Portable Log Analysis System provides a secure, portable, and offline solution for log analysis and anomaly detection. By combining Python-based analysis with Isolation Forest and visual dashboards, it helps identify security threats effectively in isolated environments.
