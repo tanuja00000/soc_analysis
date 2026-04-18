@@ -58,6 +58,16 @@ Repeated access from the same IP
 
 Sudden spikes in error or critical logs
 
+### screenshots 
+
+<img width="1341" height="614" alt="Screenshot 2026-02-03 191731" src="https://github.com/user-attachments/assets/378187a9-a9ef-4bb9-abef-b3b5bf5a5f16" />
+
+<img width="1007" height="542" alt="Screenshot 2026-02-03 210252" src="https://github.com/user-attachments/assets/a0a0d644-b5ba-4451-9535-9c84cd006864" />
+
+<img width="1071" height="440" alt="Screenshot 2026-02-18 224200" src="https://github.com/user-attachments/assets/6f390209-a34b-45fb-8b0e-52c2827848a9" />
+
+
+
 ## Use Cases
 
 SOC monitoring in isolated networks
