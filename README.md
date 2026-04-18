@@ -71,3 +71,5 @@ Educational SOC and cybersecurity projects
 ## Conclusion
 
 The Portable Log Analysis System provides a secure, portable, and offline solution for log analysis and anomaly detection. By combining Python-based analysis with Isolation Forest and visual dashboards, it helps identify security threats effectively in isolated environments.
+
+
